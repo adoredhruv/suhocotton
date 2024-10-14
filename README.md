@@ -1,6 +1,6 @@
 - 👋 Hey, I am Dhruv Patil. I work with Python, Java and JavaScript.
 - 📫 Email: adoresuho@gmail.com
-- Twitter: @suhokwan
+- Twitter: @adoredhruv
 
 <!---
 suhocotton/suhocotton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
